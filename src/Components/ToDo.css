@@ -1,0 +1,42 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.main1 {
+  background-color: #b3ecff;
+  height: 800px;
+  padding: 20px;
+}
+input {
+  margin: 20px;
+}
+
+#button-addon2 {
+  margin: 20px;
+}
+#button-addon1 {
+  margin: 20px;
+}
+#list {
+  margin-left: 500px;
+  width: 350px;
+  display: flex;
+  justify-content: space-evenly;
+  border-radius: 5%;
+}
+.list-group-item {
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  width: 500px;
+  margin-left: 500px;
+}
+.btndiv {
+  display: flex;
+  justify-content: space-around;
+}
+p {
+  display: flex;
+  justify-content: end;
+}

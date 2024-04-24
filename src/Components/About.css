@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.main2 {
+  background-color: #b3ecff;
+  height: 800px;
+}
+p {
+  padding: 20px;
+
+  margin-left: 20px;
+  margin-right: 20px;
+  color: black;
+  font-size: large;
+  font-weight: 500;
+}
+h4 {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}

@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.main {
+  background-color: aqua;
+  margin-bottom: 0px;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 700;
+  background-color: aqua;
+}
+
+.uli {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px;
+}

@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.main3 {
+  background-color: #b3ecff;
+  height: 800px;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  padding-top: 80px;
+}
+.main4 {
+  background-color: white;
+  height: 500px;
+  width: 500px;
+  align-items: center;
+}
+h3 {
+  display: flex;
+  justify-content: center;
+  color: black;
+  font-weight: 500;
+  padding: 10px;
+}
